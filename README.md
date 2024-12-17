@@ -1,7 +1,7 @@
 > [!IMPORTANT]  
 > This project is not mine. It is from https://gitgud.io/wackyideas/aerothemeplasma and you should not credit me for anything in this repo.
->
- [!WARNING]
+
+> [!WARNING]
 > this repo is not up-to-date, please access the original repo unless you physically can't access it.
 
 # AEROTHEMEPLASMA FOR KDE 6
